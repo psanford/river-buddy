@@ -1,0 +1,6 @@
+github.com/raitonoberu/riverpipe v0.0.0-20240429074150-4b2bdaf84a09 h1:Y0Rrt1tCCcfFnHBXpKSXtjx77qK3wvFSReV6RjHZQEI=
+github.com/raitonoberu/riverpipe v0.0.0-20240429074150-4b2bdaf84a09/go.mod h1:J8i0Vi2SPt1xG8gMnv83yYGyypAyPKSJIWWfkOTOjW4=
+github.com/rajveermalviya/go-wayland/wayland v0.0.0-20230130181619-0ad78d1310b2 h1:tRhbehjSCwQSZL7A2AoZlKrDYhZzaPIAcpnhfaUc0Tw=
+github.com/rajveermalviya/go-wayland/wayland v0.0.0-20230130181619-0ad78d1310b2/go.mod h1:PXhW/GoWcMBeiZ39ZdgoMs/xduJEEUE+kxUBB2Kwd+M=
+golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1 h1:kwrAHlwJ0DUBZwQ238v+Uod/3eZ8B2K5rYsUHBQvzmI=
+golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
